@@ -6,6 +6,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor em formação. Meu foco 
 
 ## Sobre Mim
 - **Curso Técnico em Informática** - E.E.E.P Doutor Solon Tavares (Concluído em 2024)
+- **Ensino Médio** - I.E.E Gomes Jardim (Concluído em 2023)
 - Aspirante a Back-End Developer com conhecimentos em linguagens de programação e tecnologias web.
 - Localização: **Guaíba, Rio Grande do Sul - Brasil**
 
