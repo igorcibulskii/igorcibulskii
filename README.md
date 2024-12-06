@@ -25,7 +25,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor em formação. Meu foco 
 ## Projetos em Destaque:
 ### [Atlas Arcaico](https://github.com/igorcibulskii/atlas-arcaico)
 Mapa-múndi interativo desenvolvido com:
-- **HTML, CSS, JavaScript, PHP, SVG e MySQL**
+- **HTML, CSS, JavaScript, Java, PHP, SVG e MySQL**
 - Explora informações detalhadas sobre animais pré-históricos extintos de forma interativa.
 
 ---
