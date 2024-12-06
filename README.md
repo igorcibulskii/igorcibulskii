@@ -33,6 +33,7 @@ Mapa-múndi interativo desenvolvido com:
 ## Conecte-se Comigo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-cibulski-01763b2aa/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/igorcibulskii)
+[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/igorcibulskii/)
 [![E-mail](https://img.shields.io/badge/E--mail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igorjmcibulski@gmail.com)
 
 ---
